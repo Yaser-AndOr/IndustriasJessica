@@ -4,7 +4,6 @@
 * Quienes Somos
 * Bolsa de trabajo
 ### Slider promocional
-=============
 #### Ubicacion
 #### correo
 #### Telefono

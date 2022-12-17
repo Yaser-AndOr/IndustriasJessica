@@ -1,10 +1,13 @@
 # Principal
-
-============
 ## Inicio
-### Slider promocional
- ![Promocion](/images/promo1.jpg)
-###
 ## Tienda
 ## Quienes Somos
+## Bolsa de trabajo
 =============
+### Slider promocional
+=============
+#### Ubicacion
+#### correo
+#### Telefono
+#### Redes sociales
+-----------

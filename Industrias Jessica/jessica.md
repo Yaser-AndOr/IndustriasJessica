@@ -45,7 +45,7 @@
 #### Redes sociales
 -----------
 
-# Quienes somos
+# Bolsa de trabajo
 * Inicio
 * Tienda
 * Quienes Somos
